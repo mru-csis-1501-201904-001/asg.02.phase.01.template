@@ -9,8 +9,6 @@ local.properties
 .loadpath
 .recommenders
 
-# screenshots
-*.png
 
 # External tool builders
 .externalToolBuilders/
